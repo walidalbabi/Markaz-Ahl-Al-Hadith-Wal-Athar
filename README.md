@@ -34,7 +34,7 @@ attestation.
   SHA-256 fingerprint is permanent across every release:
 
   ```
-  PENDING-FIRST-RELEASE
+  4369304c6323fe994dd1069f99898a527d0ac05815d99ed62570d2fb8ab4eca9
   ```
 
   Android refuses to update an installed original with anything signed
